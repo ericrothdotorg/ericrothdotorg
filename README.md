@@ -1,8 +1,4 @@
-### Hi, I'm Eric 👋
-
-I build and run [ericroth.org](https://ericroth.org/), a personal WordPress site: One Human | Many Worlds.
-
-The whole site is shared here as it is: Use it, take it apart, borrow what you like.
+The whole site [ericroth.org](https://ericroth.org/) is shared here as it is: Use it, take it apart, borrow what you like.
 
 **Start with [website-lab](https://github.com/ericrothdotorg/website-lab)**, the entry door to everything behind the site:
 
