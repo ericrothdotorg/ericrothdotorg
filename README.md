@@ -1,6 +1,6 @@
 ### Hi, I'm Eric 👋
 
-I build and run [ericroth.org](https://ericroth.org/) - a personal website: One Human | Many Worlds.
+I build and run [ericroth.org](https://ericroth.org/) – a personal website: One Human | Many Worlds.
 
 The whole site is shared here as it is: Use it, take it apart, borrow what you like.
 
