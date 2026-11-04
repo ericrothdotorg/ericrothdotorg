@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Eric 👋
 
-<!--
-**ericrothdotorg/ericrothdotorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and run [ericroth.org](https://ericroth.org/), a personal WordPress site: One Human | Many Worlds.
 
-Here are some ideas to get you started:
+The whole site is shared here as it is: Use it, take it apart, borrow what you like.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Start with [website-lab](https://github.com/ericrothdotorg/website-lab)**, the entry door to everything behind the site:
+
+- [eric-theme](https://github.com/ericrothdotorg/eric-theme) – the block theme: the look
+- [eric-snippets](https://github.com/ericrothdotorg/eric-snippets) – the code snippets: everything dynamic
+- [eric-slider](https://github.com/ericrothdotorg/eric-slider) – a zero-dependency JavaScript slider
+
+No page builder, no build step, no webfonts. Every line is there because a real page needed it.
