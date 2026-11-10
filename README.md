@@ -6,7 +6,7 @@ The whole site is shared here as it is: Use it, take it apart, borrow what you l
 
 **Start with [website-lab](https://github.com/ericrothdotorg/website-lab)**, the entry door to everything behind the site:
 
-- [eric-theme](https://github.com/ericrothdotorg/eric-theme) (installable zip under [Releases](https://github.com/ericrothdotorg/eric-theme/releases)) – the block theme: The look
+- [eric-theme](https://github.com/ericrothdotorg/eric-theme) (installable zip: [Releases](https://github.com/ericrothdotorg/eric-theme/releases)) – the block theme: The look
 - [eric-snippets](https://github.com/ericrothdotorg/eric-snippets) – the code snippets: Everything dynamic
 - [eric-slider](https://github.com/ericrothdotorg/eric-slider) – a zero-dependency JavaScript slider
 
